@@ -8,7 +8,6 @@ This repository gathers materials—papers, code, slides, and a companion podcas
 2. Hands-On Code & Notebooks  
 3. Slides & Podcast  
 4. Getting Started  
-5. Citing  
 
 ---
 
@@ -70,63 +69,6 @@ This repository gathers materials—papers, code, slides, and a companion podcas
 
 ---
 
-## Citing
-
-If you use any of these materials in your research, please cite the original papers:
-
-```bibtex
-@inproceedings{bengio2021gflownet,
-  title={Flow Network based Generative Models for Non-Iterative Diverse Candidate Generation},
-  author={Bengio, Emmanuel et al.},
-  booktitle={NeurIPS},
-  year={2021}
-}
-
-@inproceedings{xie2021mars,
-  title={MARS: Markov Molecular Sampling for Multi-Objective Drug Discovery},
-  author={Xie, Yutong et al.},
-  booktitle={ICLR},
-  year={2021}
-}
-
-@article{grathwohl2021oops,
-  title={Oops I Took A Gradient: Scalable Sampling for Discrete Distributions},
-  author={Grathwohl, Will et al.},
-  year={2021}
-}
-
-@inproceedings{dai2020aloe,
-  title={Learning Discrete Energy-based Models via Auxiliary-Variable Local Exploration},
-  author={Dai, Hanjun et al.},
-  booktitle={NeurIPS},
-  year={2020}
-}
-
-@inproceedings{jin2018junction,
-  title={Junction Tree Variational Autoencoder for Molecular Graph Generation},
-  author={Jin, Wengong et al.},
-  booktitle={ICML},
-  year={2018}
-}
-
-@article{schulman2017ppo,
-  title={Proximal Policy Optimization Algorithms},
-  author={Schulman, John et al.},
-  journal={arXiv preprint arXiv:1707.06347},
-  year={2017}
-}
-
-@inproceedings{haarnoja2018sac,
-  title={Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning},
-  author={Haarnoja, Tuomas et al.},
-  booktitle={ICML},
-  year={2018}
-}
-
-@article{bengio2020interference,
-  title={Interference and Generalization in Temporal Difference Learning},
-  author={Bengio, Emmanuel et al.},
-  journal={ICML},
-  year={2020}
-}
+### Citing
+If you use any of these materials in your research, please cite the original paper.
 ```
