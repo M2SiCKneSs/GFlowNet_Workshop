@@ -20,14 +20,21 @@ This repository gathers materials—papers, code, slides, and a companion podcas
 
 ## Hands-On Code & Notebooks
 
-- **Data_Science_GFN (1).ipynb**  
+- **GFlowNet_tutorial_oct_2022.ipynb**  
+  - A Jupyter notebook of a tutorial for a toy enviroment of a smiley face.
+  - Link: https://colab.research.google.com/drive/1fUMwgu2OhYpQagpzU5mhe9_Esib3Q2VR 
+
+- **Data_Science_GFN_workshop.ipynb**  
   - A Jupyter notebook illustrating GFlowNet training on a toy domain.  
-  - **Requirements:** Python 3.8+, PyTorch, RDKit, NetworkX.  
+  - **Requirements:** Python 3.8+, PyTorch, RDKit, NetworkX.
+  - Link: https://colab.research.google.com/drive/1jDlLOemfQJEr2kUHbdR2zkV6wvpkWzyB?authuser=1
   - **Usage:**  
     ```bash
     pip install -r requirements.txt
     jupyter lab Data_Science_GFN\ \(1\).ipynb
-    ```  
+    ```
+    
+  
 
 ---
 
